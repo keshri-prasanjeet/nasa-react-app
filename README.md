@@ -2,7 +2,7 @@
 
 Welcome to the NASA Astronomy Picture of the Day (APOD) Viewer! This project displays the stunning daily image provided by NASA, showcasing the universe in high definition.
 
-🌐 Live Demo: NASA APOD Viewer
+🌐 Live Demo: [NASA APOD Viewer](https://keshrixlabs-react-nasa-apod.netlify.app/)
 
 ✨ Features
 
